@@ -23,7 +23,7 @@ public class TeamSort {
 	{
 		
 	}
-//	public static int challengeTwo(string[]arr)
+//	public static int challengeTwo(string[]arr,string query)
 	{
 		
 	}
