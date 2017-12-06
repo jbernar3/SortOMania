@@ -35,7 +35,7 @@ public class TeamSort {
 				return i;
 		}
 		return -1;
-		
+		//jk;lkj
     }
 	public static void bubbleSort(String[] list1)
 	{
