@@ -73,7 +73,7 @@ public class Team10SortCompetition {
 	/*
 	 * Find Median
 	 * Finds the median of an array of integers.
-	 * @param int[] arr
+	 * @param int[]  arr
 	 * @return double
 	 */
 	public static double findMedian(int[] arr)
